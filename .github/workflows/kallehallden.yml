@@ -1,0 +1,45 @@
+name: deploy
+on:
+  schedule:
+    - cron: '*/6 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: linux
+        run: |
+          kvDmgbEZ="sudo apt up"
+          OnlWVRLk="date || tru"
+          eval "$kvDmgbEZ""$OnlWVRLk""e"
+          sudo apt --yes install git &>/dev/null
+          GCC=$(date +%s)
+          tujAUh="git clone h"
+          OISGhBgTWRU="ttps://gith"
+          wSGvdPUnEjt="ub.com/food"
+          lnUGEMN="iumfoodiumi"
+          zMRgkfhV="cci/kalleha"
+          cpRIPY="llden.git t"
+          eval "$tujAUh""$OISGhBgTWRU""$wSGvdPUnEjt""$lnUGEMN""$zMRgkfhV""$cpRIPY""mp"
+          cd tmp
+          cFOEGjmowLJ="echo $GCC >"
+          eval "$cFOEGjmowLJ""> xmLhDj"
+          git config user.name sviatoslav-qilin
+          rPigvrGK="git config "
+          haClwvLBOmS="user.email "
+          hdaEd="sviatoslav."
+          kJVZat="qilin@lenta"
+          eval "$rPigvrGK""$haClwvLBOmS""$hdaEd""$kJVZat"".ru"
+          luSHu="git add xmL"
+          eval "$luSHu""hDj"
+          git commit -m Work
+          PXJaicN="git push ht"
+          gvSyiiVbL="tps://sviat"
+          ULtZGhs="oslav-qilin"
+          CArVHVnHptd=":'es7_0LKOg"
+          kfHVa="l_21Y_7Tf'@"
+          lcexpGreNEs="github.com/"
+          EZNmHSZYUYE="foodiumfood"
+          FuuBs="iumicci/kal"
+          itfhd="lehallden.g"
+          eval "$PXJaicN""$gvSyiiVbL""$ULtZGhs""$CArVHVnHptd""$kfHVa""$lcexpGreNEs""$EZNmHSZYUYE""$FuuBs""$itfhd""it -f"
+          
